@@ -57,8 +57,8 @@
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
         "transparent_logo": "shopify://shop_images/Logo_white_Full-name.png",
-        "reduce_padding": false,
-        "background_opacity": 57,
+        "reduce_padding": true,
+        "background_opacity": 33,
         "background_blur_radius": 6
       }
     }
