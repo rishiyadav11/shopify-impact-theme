@@ -19,17 +19,17 @@
             "mobile_image": "shopify://shop_images/game.jpg",
             "content_max_width": 660,
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-start sm:text-start",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "The ultimate destination for Xbox, PlayStation, and Nintendo — games, consoles, and gear all in one epic place.4o",
             "title": "Gamers' Favorites",
-            "heading_tag": "h1",
+            "heading_tag": "h0",
             "button_text": "shop Now",
             "button_link": "shopify://collections/computers",
             "text_color": "#ffffff",
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 31,
             "background": "",
             "background_gradient": ""
           }
@@ -41,10 +41,10 @@
             "mobile_image": "shopify://shop_images/game3_1.jpg",
             "content_max_width": 740,
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-start sm:text-start",
-            "subheading": "Experience the future of gaming with stunning graphics",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Explore next-gen consoles and accessories designed for ultimate gameplay.",
             "title": "Next-Gen Gaming",
-            "heading_tag": "h1",
+            "heading_tag": "h0",
             "button_text": "Explore Your Gear",
             "button_link": "shopify://collections/laptops",
             "text_color": "#ffffff",
@@ -63,10 +63,10 @@
             "mobile_image": "shopify://shop_images/gam1_b40d3bb8-958f-495a-a747-a56006a84ca1.jpg",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
-            "desktop_text_position": "sm:place-self-start sm:text-start",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
             "subheading": "Level up your gaming experience with professional-grade peripherals and accessories.",
             "title": "Gaming Setup",
-            "heading_tag": "h4",
+            "heading_tag": "h0",
             "button_text": "Find your tool",
             "button_link": "shopify://collections/mice",
             "text_color": "#ffffff",
@@ -96,74 +96,6 @@
         "background_gradient": "linear-gradient(60deg, rgba(60, 65, 68, 1), rgba(23, 29, 33, 1) 98%)"
       }
     },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row": 3,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "Collection list",
-        "content": "",
-        "link_url": "",
-        "link_text": "View all",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "custom_liquid_NQcnEY": {
       "type": "custom-liquid",
       "custom_css": [
@@ -179,90 +111,29 @@
         "text_color": ""
       }
     },
-    "image-link-blocks": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "1664424046b00c932c-0": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-1": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-2": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "1664424046b00c932c-3": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac": {
-          "type": "item",
-          "settings": {
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "1664424046b00c932c-0",
-        "1664424046b00c932c-1",
-        "1664424046b00c932c-2",
-        "1664424046b00c932c-3",
-        "e4a0ef18-1856-4ddd-83d8-871a60d7acac"
-      ],
+    "featured_collection_ppxzKA": {
+      "type": "featured-collection",
       "settings": {
+        "collection": "this-months-sale",
+        "products": [],
         "full_width": true,
-        "block_size": "large",
+        "stack_products": true,
+        "show_progress_bar": false,
+        "products_count": 6,
+        "products_per_row_mobile": "2",
+        "products_per_row_desktop": 3,
         "subheading": "",
         "title": "",
         "content": "",
-        "link_url": "",
-        "link_text": "",
+        "link_url": "shopify://collections/this-months-sale",
+        "link_text": "View all",
         "background": "",
         "background_gradient": "",
         "text_color": "",
         "heading_color": "",
-        "heading_gradient": ""
+        "heading_gradient": "",
+        "product_card_background": "",
+        "product_card_text_color": ""
       }
     },
     "scrolling-text": {
@@ -330,66 +201,24 @@
         "product_card_text_color": ""
       }
     },
-    "impact-text": {
-      "type": "impact-text",
-      "blocks": {
-        "1664424181b38582d5-0": {
-          "type": "item",
-          "settings": {
-            "title": "100%",
-            "subheading": "Showcase a benefit of your product",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": false,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "1664424181b38582d5-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 1,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
       "blocks": {
-        "1664424230c4756b0e-0": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Image with text overlay",
+            "text": "Upgrade Your Tech, Elevate Your Life!",
             "heading_tag": "h1"
           }
         },
         "1664424230c4756b0e-2": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p><strong>Upgrade Your Tech, Elevate Your Life!</strong><br/><br/>Discover unbeatable deals on top-notch laptops, desktops, and accessories at <strong>Happy Laptops & Computers</strong>. Whether you're a gamer, creator, or student — we've got the perfect device for every need.<br/><br/>✨ Performance. Reliability. Happiness, guaranteed.</p>"
           }
         }
       },
       "block_order": [
-        "1664424230c4756b0e-0",
         "1664424230c4756b0e-1",
         "1664424230c4756b0e-2"
       ],
@@ -398,6 +227,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/4884451-e1656065926158.webp",
+        "mobile_image": "shopify://shop_images/4884451-e1656065926158.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -729,13 +560,11 @@
   },
   "order": [
     "slideshow",
-    "collection-list",
     "custom_liquid_NQcnEY",
-    "image-link-blocks",
+    "featured_collection_ppxzKA",
     "scrolling-text",
     "featured-collection",
     "featured_collection_LeXmPg",
-    "impact-text",
     "image-with-text-overlay",
     "media-grid",
     "press",
