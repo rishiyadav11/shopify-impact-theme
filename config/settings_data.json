@@ -41,7 +41,14 @@
     "social_youtube": "https://www.youtube.com/@happylaptopsandcomputer",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "9717370649079274736": {
+        "type": "shopify://apps/lucent-otp-login-notify/blocks/app-embed-block/c26b7b17-273d-4800-af62-8ec88ba18251",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {

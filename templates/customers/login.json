@@ -1,1 +1,65 @@
-{"sections":{"main":{"type":"main-customers-login","blocks":{"fields":{"type":"fields","settings":{}}},"block_order":["fields"],"settings":{}}},"order":["main"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-customers-login",
+      "blocks": {
+        "fields": {
+          "type": "fields",
+          "settings": {
+            "return_to": ""
+          }
+        }
+      },
+      "block_order": [
+        "fields"
+      ],
+      "disabled": true,
+      "settings": {
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
+    "1743914900f2615474": {
+      "type": "apps",
+      "blocks": {
+        "lucent_otp_login_notify_app_section_block_fUPdb4": {
+          "type": "shopify://apps/lucent-otp-login-notify/blocks/app-section-block/c26b7b17-273d-4800-af62-8ec88ba18251",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "lucent_otp_login_notify_app_section_block_fUPdb4"
+      ],
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "enable_review_integration": true,
+        "review_header_gradient": "linear-gradient(135deg, rgba(255, 194, 102, 1), rgba(255, 163, 26, 1) 100%)",
+        "review_header_text_color": "#000000",
+        "review_button_background": "#000000",
+        "review_button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1743914900f2615474"
+  ]
+}
