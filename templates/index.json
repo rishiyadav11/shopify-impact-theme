@@ -99,7 +99,7 @@
     "custom_liquid_NQcnEY": {
       "type": "custom-liquid",
       "custom_css": [
-        ".monthly-heading {font-size: 5rem; color: #10000; text-align: center;}"
+        ".monthly-heading {font-size: 4rem; color: #10000; text-align: center;}"
       ],
       "settings": {
         "full_width": true,
