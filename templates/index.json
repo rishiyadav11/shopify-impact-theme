@@ -136,20 +136,35 @@
         "product_card_text_color": ""
       }
     },
-    "scrolling-text": {
-      "type": "scrolling-text",
-      "custom_css": [],
+    "video_TUMEgE": {
+      "type": "video",
+      "blocks": {
+        "play_PkQb6H": {
+          "type": "play",
+          "settings": {}
+        },
+        "heading_WCf4hr": {
+          "type": "heading",
+          "settings": {
+            "text": "We’ve got all the beast products – made to conquer, built to last",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "play_PkQb6H",
+        "heading_WCf4hr"
+      ],
       "settings": {
         "full_width": true,
-        "text": "Happy Tech, Happier You.",
-        "text_size": "medium",
-        "text_style": "fill",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "#1a1a1a",
-        "text_gradient": ""
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/videoplayback.mp4",
+        "external_video_url": "https://youtu.be/MtEA3xBIB9E",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "featured-collection": {
@@ -554,7 +569,7 @@
     "slideshow",
     "custom_liquid_NQcnEY",
     "featured_collection_ppxzKA",
-    "scrolling-text",
+    "video_TUMEgE",
     "featured-collection",
     "featured_collection_LeXmPg",
     "image-with-text-overlay",
