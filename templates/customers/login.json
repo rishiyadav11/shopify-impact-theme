@@ -22,6 +22,7 @@
       "block_order": [
         "fields"
       ],
+      "disabled": true,
       "settings": {
         "background": "",
         "background_gradient": "",
@@ -42,7 +43,6 @@
       "block_order": [
         "lucent_otp_login_notify_app_section_block_fUPdb4"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
