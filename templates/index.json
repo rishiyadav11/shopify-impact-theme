@@ -126,7 +126,7 @@
         "title": "",
         "content": "",
         "link_url": "shopify://collections/this-months-sale",
-        "link_text": "View all",
+        "link_text": "",
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -138,16 +138,17 @@
     },
     "scrolling-text": {
       "type": "scrolling-text",
+      "custom_css": [],
       "settings": {
         "full_width": true,
-        "text": "Discover unbeatable deals on top-notch laptops, desktops, and accessories at Happy Laptops & Computers",
-        "text_size": "large",
+        "text": "Happy Tech, Happier You.",
+        "text_size": "medium",
         "text_style": "fill",
         "scrolling_mode": "auto",
         "scrolling_speed": 5,
         "background": "",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#1a1a1a",
         "text_gradient": ""
       }
     },
