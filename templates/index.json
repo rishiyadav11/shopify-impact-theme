@@ -243,9 +243,10 @@
         "item-1": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/360_F_741014161_o9PTiiWFB2gWrLPiflaQOxB0n6OxcJPB.jpg",
+            "title": "Best Laptop Deals",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/laptops",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -264,9 +265,10 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/download.jpg",
+            "title": "Gaming Computers",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/computers",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -285,9 +287,10 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/pro1100header.webp",
+            "title": "Printers",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/printers-scanners",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 1,
@@ -306,9 +309,10 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "image": "shopify://shop_images/STONE350PRO_Blue_04_1500x_c598b798-6e0e-472f-b684-c2f0b1f71cc5.webp",
+            "title": "Speakers",
             "heading_tag": "h4",
-            "link_url": "",
+            "link_url": "shopify://collections/speakers",
             "link_text": "",
             "mobile_text_position": "place-self-center text-center",
             "desktop_column_span": 2,
@@ -347,18 +351,18 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Abhinav",
+            "content": "Good service . Nice customer experience. Good staff. Decent price",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "quote_bNKfCU": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "Pankaj Beriwal",
+            "content": "Yesterday purchased Dell curved monitor 24\" from here and literally having such a cool experiece while interacting with owner Lokesh here he is truely a gem available in Narnaul.",
             "show_rating": true,
             "rating": 4
           }
@@ -367,30 +371,30 @@
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Write some content about what they says about your store.",
+            "author": "ojasvi makkar",
+            "content": "Best service and very true dealing.. love to see that they are having quick heal number 1 antivirus also having so many premium quality products..",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Share info about what your customers say about your products.",
+            "author": "Praveen Kumar Gurjar",
+            "content": "One of the best Computer shop in whole Narnaul area all letest tech gadget available at effective price range also found Mac Support and Gaming software also available.",
             "show_rating": true,
-            "rating": 4
+            "rating": 5
           }
         },
         "16644243327ba53d2a-1": {
           "type": "quote",
           "settings": {
             "logo_width": 100,
-            "author": "",
-            "content": "Or share content about your promotion, offers...",
-            "show_rating": false,
-            "rating": 4
+            "author": "SANDEEP KUMAR SAINI",
+            "content": "Very nice experience with Happy Laptops Good and well experienced staff",
+            "show_rating": true,
+            "rating": 5
           }
         }
       },
@@ -424,8 +428,8 @@
             "horizontal_position_mobile": 24,
             "vertical_position_mobile": 70,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Affordable Pricing",
+            "content": "<p>Offers laptops and computers at budget-friendly rates without compromising on quality.</p>"
           }
         },
         "1664424434f5b7d0e0-1": {
@@ -436,8 +440,8 @@
             "horizontal_position_mobile": 62,
             "vertical_position_mobile": 14,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Wide Product Range",
+            "content": "<p>Provides a variety of models including gaming, office, and student laptops.<br/></p>"
           }
         },
         "1664424434f5b7d0e0-2": {
@@ -448,8 +452,8 @@
             "horizontal_position_mobile": 83,
             "vertical_position_mobile": 75,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "After-Sales Support",
+            "content": "<p>Reliable customer service for repairs, warranties, and upgrades.</p>"
           }
         },
         "item_9x3Lg3": {
@@ -460,20 +464,8 @@
             "horizontal_position_mobile": 30,
             "vertical_position_mobile": 30,
             "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
-          }
-        },
-        "item_m9AVhy": {
-          "type": "item",
-          "settings": {
-            "horizontal_position": 30,
-            "vertical_position": 30,
-            "horizontal_position_mobile": 30,
-            "vertical_position_mobile": 30,
-            "icon_width": 32,
-            "title": "Feature name",
-            "content": "<p>Share useful information about your product features.</p>"
+            "title": "Customization Options",
+            "content": "<p>Allows users to choose specifications like RAM, storage, and processor before purchase.</p>"
           }
         }
       },
@@ -481,12 +473,11 @@
         "1664424434f5b7d0e0-0",
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2",
-        "item_9x3Lg3",
-        "item_m9AVhy"
+        "item_9x3Lg3"
       ],
       "settings": {
         "full_width": true,
-        "title": "",
+        "title": "Our speciality",
         "content": "",
         "button_text": "",
         "button_url": "",
