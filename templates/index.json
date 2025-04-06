@@ -459,6 +459,18 @@
             "content": "<p>Provides a variety of models including gaming, office, and student laptops.<br/></p>"
           }
         },
+        "item_9daTzG": {
+          "type": "item",
+          "settings": {
+            "horizontal_position": 30,
+            "vertical_position": 30,
+            "horizontal_position_mobile": 30,
+            "vertical_position_mobile": 30,
+            "icon_width": 32,
+            "title": "Data Recovery",
+            "content": "<p><strong>We recover lost or corrupted data from all devices securely, quickly, and with a high success rate.</strong><br/><br/></p>"
+          }
+        },
         "1664424434f5b7d0e0-2": {
           "type": "item",
           "settings": {
@@ -487,6 +499,7 @@
       "block_order": [
         "1664424434f5b7d0e0-0",
         "1664424434f5b7d0e0-1",
+        "item_9daTzG",
         "1664424434f5b7d0e0-2",
         "item_9x3Lg3"
       ],
